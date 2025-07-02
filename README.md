@@ -30,7 +30,7 @@ The Cold Email Generator is a Streamlit-based web application that helps busines
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/upal864/cold_email_generator.git
 cd cold_email
 ```
 
