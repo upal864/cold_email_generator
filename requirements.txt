@@ -1,0 +1,14 @@
+langchain
+langchain_groq
+
+langchain-community
+
+unstructured
+selenium
+chromadb
+streamlit
+pandas
+python-dotenv
+
+pandas
+numpy
